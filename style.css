@@ -1,0 +1,142 @@
+* {
+    margin:0%;
+
+}
+
+@media screen and (max-width: 500px){
+
+    .about {
+        
+        border: 1px solid white;
+        margin-left: 5px;
+        text-align:center;
+        font-size: 16px;
+        padding-left: 20px; 
+       padding-top: 10px;
+       padding-bottom: 10px;
+       text-align:left;
+       box-shadow: 15px 0px 0px 0px rgb(0 0 0 / 15%);
+       letter-spacing: 1px;
+       font-family: 'Bellefair', serif;
+    }
+    .time {
+        text-align:right;
+        font-size: 13px;
+    
+    }
+
+    .confirm {
+        /* background:linear-gradient(
+            85.21deg
+            , rgb(221, 107, 32) 0%, rgb(246, 173, 85) 100%);;
+             */
+        
+        background-color:#141e30;     
+        border: 1px solid;
+        color: white;
+        border-radius: 15px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        width: 80%;
+        margin-top: 30px;
+        margin-left: 25px;
+        letter-spacing: 2px;
+        font-size:20px;
+    }
+    .recover {
+        /* background:linear-gradient(
+            71.78deg
+            , rgb(49, 151, 149) 0%, rgb(129, 230, 217) 99.11%);; */
+            background-color: #36d1dc;
+            border: 1px solid;
+        color: white;
+        border-radius: 15px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        width: 80%;
+        margin-top: 15px;
+        margin-left: 25px;
+        letter-spacing: 2px;
+        font-size:20px;
+    }
+    .death {
+        /* background:linear-gradient(
+            69.82deg
+            , rgb(130, 39, 39) 0%, rgb(245, 101, 101) 100%);; */
+        background-color:#ec6f66;
+            border: 1px solid;
+        color: white;
+        border-radius: 15px;
+        padding-left: 15px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+        width: 80%;
+        margin-top: 15px;
+        margin-left: 25px;
+        letter-spacing: 2px;
+        font-size:20px;
+        
+    }
+       
+    .child {
+    
+        text-align: right;
+        margin-right: 20px;    
+        margin-top: 10px;
+    }
+
+    .article {
+        margin: 20px 20px 5px 20px;
+        font-family: 'Bellefair', serif;
+        font-size: 20px;
+    }
+
+    .gif {
+        height:350px;
+        width:350px;
+
+    }
+
+}
+
+.last_update {
+    margin-left:40px;
+    font-size: 13px;
+}
+.global {
+    margin-left: 40px;
+    font-size: 40px;
+}
+body {
+    background-color:snow;
+   
+    
+}
+
+
+.covid {
+    height:30px;
+    width:30px;
+    margin-top: 10px;
+}
+.header {
+    font-size: 12px;
+     padding-left: 20px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:left;
+    box-shadow: 0px 4px 14px 1px rgb(0 0 0 / 15%);
+    letter-spacing: 1px;
+    font-family: 'Bellefair', serif;
+}
+.time {
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+
+
+
